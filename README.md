@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hitesh Reddy</h1>
 <h3 align="center">A passionate Full Stack web developer from India</h3>
 
-- 🔭 I’m currently working on [MarketCast](https://github.com/Hitesh-Reddy-09/MarketCast)
+
 
 - 🌱 I’m currently learning **AI and ML**
 
